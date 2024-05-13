@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/Superdog/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Superdog.dir/includes_CXX.rsp -g -o CMakeFiles\\Superdog.dir\\src\\dog.cpp.obj -c D:\\VSCode\\exemple4\\Superdog\\src\\dog.cpp",
+  "file": "D:/VSCode/exemple4/Superdog/src/dog.cpp",
+  "output": "CMakeFiles/Superdog.dir/src/dog.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/exemple4/Superdog/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Superdog.dir/includes_CXX.rsp -g -o CMakeFiles\\Superdog.dir\\src\\main.cpp.obj -c D:\\VSCode\\exemple4\\Superdog\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/Superdog/src/main.cpp",
+  "output": "CMakeFiles/Superdog.dir/src/main.cpp.obj"
+}
+]
